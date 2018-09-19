@@ -1,12 +1,12 @@
 # sukkaNotes - Math
 
 [![Author Sukka](https://img.shields.io/badge/Author-Sukka-b68469.svg?style=flat-square)](https://skk.moe)
-![Math](https://img.shields.io/badge/Subject-Math-1976D2.svg?style=flat-square)
+![Math](https://img.shields.io/badge/Subject-Math-00BFA5.svg?style=flat-square)
 [![License](https://img.shields.io/github/license/sukkanotes/math.svg?style=flat-square)](https://github.com/sukkaNotes/math/blob/master/LICENSE)
 
 > 学而时习之，不亦乐乎？——《论语》
 
-苏卡卡的「普通化学 B」笔记。
+苏卡卡的「高等数学 C」笔记。
 
 ## Intro
 
