@@ -4,3 +4,4 @@
   * [1.2 数列的极限](1-function-and-limit/1.2)
   * [1.3 函数的极限](1-function-and-limit/1.3)
   * [1.4 无穷小与无穷大](1-function-and-limit/1.4)
+  * [1.5 极限运算法则](1-function-and-limit/1.4)
