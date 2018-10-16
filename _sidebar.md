@@ -7,6 +7,8 @@
   * [1.6 极限存在法则和两个重要极限](1-function-and-limit/1.6)
   * [1.7 无穷小的比较](1-function-and-limit/1.7)
   * [1.8 函数的连续和间断点](1-function-and-limit/1.8)
+  * [1.9 连续函数的运算和初等函数的连续性](1-function-and-limit/1.9)
+  * [1.10 闭区间上的连续函数](1-function-and-limit/1.10)
 * 附录
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
