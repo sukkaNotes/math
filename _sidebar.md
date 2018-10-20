@@ -1,4 +1,4 @@
-* 1 函数与极限
+* __1 函数与极限__
   * [1.1 映射与函数](1-function-and-limit/1.1)
   * [1.2 数列的极限](1-function-and-limit/1.2)
   * [1.3 函数的极限](1-function-and-limit/1.3)
@@ -9,6 +9,9 @@
   * [1.8 函数的连续和间断点](1-function-and-limit/1.8)
   * [1.9 连续函数的运算和初等函数的连续性](1-function-and-limit/1.9)
   * [1.10 闭区间上的连续函数](1-function-and-limit/1.10)
-* 附录
+* __2 导数与微分__
+  * [2.1 导数概念](2-derivative-and-differential/2.1)
+* __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
+  * [2.a 常见初等函数求导公式](2-derivative-and-differential/2.a)
