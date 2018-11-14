@@ -11,6 +11,7 @@
   * [1.10 闭区间上的连续函数](1-function-and-limit/1.10)
 * __2 导数与微分__
   * [2.1 导数概念](2-derivative-and-differential/2.1)
+  * [2.2 导数基本公式和运算法则](2-derivative-and-differential/2.2)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
