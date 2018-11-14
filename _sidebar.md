@@ -12,7 +12,9 @@
 * __2 导数与微分__
   * [2.1 导数概念](2-derivative-and-differential/2.1)
   * [2.2 导数基本公式和运算法则](2-derivative-and-differential/2.2)
+  * [2.3 高阶导数](2-derivative-and-differential/2.3)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
   * [2.a 常见初等函数求导公式](2-derivative-and-differential/2.a)
+  * [2.b 高阶函数常用引例](2-derivative-and-differential/2.b)
