@@ -17,6 +17,7 @@
   * [2.5 函数的微分](2-derivative-and-differential/2.5)
 * __3 微分中值定理和导数应用__
   * [3.1 微分中值定理](3-function-differentiation-and-derivative-application/3.1)
+  * [3.2 洛必达法则](3-function-differentiation-and-derivative-application/3.2)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
