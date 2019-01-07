@@ -21,6 +21,8 @@
   * [3.3 泰勒公式](3-function-differentiation-and-derivative-application/3.3)
   * [3.4 单调性和凹凸性](3-function-differentiation-and-derivative-application/3.4)
   * [3.5 极值与最值](3-function-differentiation-and-derivative-application/3.5)
+  * [3.6 函数图象的描绘](3-function-differentiation-and-derivative-application/3.6)
+  * [3.7 函数的曲率](3-function-differentiation-and-derivative-application/3.7)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
