@@ -23,8 +23,11 @@
   * [3.5 极值与最值](3-function-differentiation-and-derivative-application/3.5)
   * [3.6 函数图象的描绘](3-function-differentiation-and-derivative-application/3.6)
   * [3.7 函数的曲率](3-function-differentiation-and-derivative-application/3.7)
+* __4 不定积分__
+  * [4.1 概念与性质](4-indefinite-integral/4.1)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
   * [2.a 常见初等函数求导公式](2-derivative-and-differential/2.a)
   * [2.b 高阶函数常用引例](2-derivative-and-differential/2.b)
+  * [4.a 常见不定积分表](4-indefinite-integral/4.a)
