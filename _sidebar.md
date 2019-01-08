@@ -25,9 +25,11 @@
   * [3.7 函数的曲率](3-function-differentiation-and-derivative-application/3.7)
 * __4 不定积分__
   * [4.1 概念与性质](4-indefinite-integral/4.1)
+  * [4.2 换元求积分](4-indefinite-integral/4.2)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
   * [2.a 常见初等函数求导公式](2-derivative-and-differential/2.a)
   * [2.b 高阶函数常用引例](2-derivative-and-differential/2.b)
   * [4.a 常见不定积分表](4-indefinite-integral/4.a)
+  * [4.b 常见凑微分形式表](4-indefinite-integral/4.b)
