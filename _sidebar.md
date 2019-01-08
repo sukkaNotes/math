@@ -26,6 +26,7 @@
 * __4 不定积分__
   * [4.1 概念与性质](4-indefinite-integral/4.1)
   * [4.2 换元求积分](4-indefinite-integral/4.2)
+  * [4.3 分部积分法](4-indefinite-integral/4.3)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
