@@ -27,6 +27,13 @@
   * [4.1 概念与性质](4-indefinite-integral/4.1)
   * [4.2 换元求积分](4-indefinite-integral/4.2)
   * [4.3 分部积分法](4-indefinite-integral/4.3)
+* __5 定积分__
+  * [5.1 概念与性质](5-definite-integral/5.1)
+  * [5.2 微积分基本公式](5-definite-integral/5.2)
+  * [5.3 定积分的换元法和分部积分法](5-definite-integral/5.3)
+  * [5.4 反常积分](5-definite-integral/5.4)
+* __6 定积分的应用__
+  * [6.1 定积分的元素法](6-application-of-definite-integral/6.1)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
