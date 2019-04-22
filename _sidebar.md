@@ -34,6 +34,11 @@
   * [5.4 反常积分](5-definite-integral/5.4)
 * __6 定积分的应用__
   * [6.1 定积分的元素法](6-application-of-definite-integral/6.1)
+* __7 微分方程__
+  * [7.1 微分方程的基本概念](7-differential-equation/7.1)
+  * [7.2 可分离变量的微分方程](7-differential-equation/7.2)
+  * [7.3 齐次方程](7-differential-equation/7.3)
+  * [7.4 一阶线性微分方程](7-differential-equation/7.4)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
