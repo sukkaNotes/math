@@ -39,6 +39,7 @@
   * [7.2 可分离变量的微分方程](7-differential-equation/7.2)
   * [7.3 齐次方程](7-differential-equation/7.3)
   * [7.4 一阶线性微分方程](7-differential-equation/7.4)
+  * [7.5 可降阶的高阶微分方程](7-differential-equation/7.5)
 * __附录__
   * [0 基本初等函数的五大基本性质](0)
   * [1.a 等价无穷小表](1-function-and-limit/1.a)
